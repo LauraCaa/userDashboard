@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Maya Rodriguez",
+      "profilePicture": "maya-rodriguez.jpg",
+      "earnings": "$7,040",
+      "score": 80,
+      "backgroundColor": "#f3f0ff",
+      "progressColor": "#7c3aed"
+    },
+    {
+      "name": "Alex Brooks",
+      "profilePicture": "alex-brooks.jpg",
+      "earnings": "$8,034",
+      "score": 90,
+      "backgroundColor": "#f0fff4",
+      "progressColor": "#16a34a"
+    },
+    {
+      "name": "Connor Patel",
+      "profilePicture": "connor-patel.jpg",
+      "earnings": "$6,000",
+      "score": 70,
+      "backgroundColor": "#f3f0ff",
+      "progressColor": "#7c3aed"
+    }
+  ]
